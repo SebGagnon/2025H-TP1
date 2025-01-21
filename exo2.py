@@ -15,4 +15,4 @@ print(charge,"%")
 # Exemple d'utilisation :
 # Si l'utilisateur entre 76, la sortie sera :
 # [❚❚❚❚❚❚❚❚     ]
-# 76%1
+# 76%
