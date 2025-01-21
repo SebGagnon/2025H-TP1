@@ -6,4 +6,4 @@ print('helgfgsflo')
 pritn ("gg")
 # Afficher un message de bienvenue avec le nom complet
 # Afficher l'année de naissance
-allo
+Print ("allo seb")
