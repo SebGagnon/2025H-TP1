@@ -7,7 +7,7 @@
 # Calculer le nombre de barres
 
 # Afficher la représentation graphique de la charge de la batterie
-
+a=2
 # Exemple d'utilisation :
 # Si l'utilisateur entre 76, la sortie sera :
 # [❚❚❚❚❚❚❚❚     ]
