@@ -3,6 +3,7 @@
 print('helgfgsflo')
 # Définir l'année actuelle
 # Calculer l'année de naissance
-
+pritn ("gg")
 # Afficher un message de bienvenue avec le nom complet
 # Afficher l'année de naissance
+allo
