@@ -42,12 +42,12 @@ else:
             print('Deux racines')
             # calculer la prmiere racine, assigner la a "x1"
             # x1 = ...
-            x1 = (-b + math.sqrt(delta))/(2*a)
+            x1 = (-b - math.sqrt(delta))/(2*a)
             # calculer la deuxieme racine, assigner la a "x2"
             # x2 = ...
-            x2 = (-b - math.sqrt(delta))/(2*a)  
+            x2 = (-b + math.sqrt(delta))/(2*a)  
             # print(x1, x2)
-            print(x1, x2)
+            print(x1,x2)
             pass
 
 # Exemple d'utilisation:
