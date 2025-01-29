@@ -14,7 +14,7 @@ heures = (secondes % 31536000) % 604800 % 86400 // 3600
 # TODO: Assigner à la variable "minutes" le nombre de minutes restantes
 minutes = (secondes % 31536000) % 604800 % 86400 % 3600 // 60
 # TODO: Assigner à la variable "secondes" le nombre de secondes restantes
-secondes = (secondes % 31536000) % 604800 % 86400 % 3600 % 60   
+secondes = (secondes % 31536000) % 604800 % 86400 % 3600 % 60 // 1
 # TODO: Afficher le nombres d'années, semaines, jours, heures, minutes et secondes
 # Exemple: print(annees, semaines, jours, heures, minutes, secondes)
 print(annees, semaines, jours, heures, minutes, secondes)
